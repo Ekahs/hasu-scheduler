@@ -13,6 +13,7 @@ import os
 SLACK_URL=os.environ["SLACK_URL"]
 
 TARGET_DAYS = [
+  '2020/02/06',
   '2020/02/07',
   '2020/02/08',
   '2020/02/09',
