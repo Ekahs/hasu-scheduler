@@ -1,3 +1,4 @@
+# coding:utf-8
 from selenium import webdriver
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions
@@ -19,6 +20,7 @@ TARGET_DAYS = [
   '2020/02/09',
   '2020/02/10',
   ]
+  
 TARGET_MONTH = "2月"
 
 options = webdriver.ChromeOptions()
