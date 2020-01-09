@@ -4,3 +4,4 @@ chromedriver-binary==79.0.3945.36.0
 selenium==3.141.0
 soupsieve==1.9.5
 requests
+lxml
